@@ -1,0 +1,5 @@
+alias cls='clear'
+alias lscol='ls -l'
+alias dev='npm run dev'
+alias build='npm run build'
+alias deploy='npm run deploy'
